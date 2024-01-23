@@ -1,0 +1,16 @@
+li {
+    list-style: none;
+}
+input {
+    height: 20px;
+    width: 80px;
+}
+button {
+    background-color: aqua;
+    color: gray;
+    height: 20px;
+}
+.delete {
+    margin-left: 20px;
+    border: 1px solid black;
+}
